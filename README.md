@@ -8,11 +8,6 @@
 👯 Open to collaboration on tech and AI projects  
 📈 Aiming to improve myself in productivity, appearance, and communication  
 
-## My Goals
-- Secure an internship at a tech company
-- Start a business in the field of Artificial Intelligence
-- Make a big positive impact on the world
-
 ## Skills
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript
 - **Frameworks**: TensorFlow, PyTorch
