@@ -15,10 +15,10 @@
 ## Projects
 1. **Mario AI**: An AI that learns to play mario using deep Q-learning.
    - [Repo](https://github.com/IsaacPrice/Mario-DS-AI)
-   - Tech Stack: Python, TensorFlow
+   - Tech Stack: Python, Tensorflow
     
 2. **AI Chess Bot**: A smart bot to predict the next best move.
-   - [Repo]([https://github.com/yourusername/AI_Chatbot](https://github.com/IsaacPrice/Machine-Deep-Learning))
+   - [Repo](https://github.com/IsaacPrice/Machine-Deep-Learning)
    - Tech Stack: Python, Tensorflow
 
 ## Contact Me
