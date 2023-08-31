@@ -6,7 +6,6 @@
 🔭 Passionate about Programming & Artificial Intelligence  
 🌱 Currently learning more about machine learning frameworks  
 👯 Open to collaboration on tech and AI projects  
-📈 Aiming to improve myself in productivity, appearance, and communication  
 
 ## Skills
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript
