@@ -10,7 +10,7 @@
 ## Skills
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript
 - **Frameworks**: TensorFlow, PyTorch
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, VS Code
 
 ## Projects
 1. **Mario AI**: An AI that learns to play mario using deep Q-learning.
@@ -23,7 +23,6 @@
 
 ## Contact Me
 Feel free to reach out to me for collaborations, advice, or if you have any questions.
-- LinkedIn: [Isaac's LinkedIn](https://www.linkedin.com/in/yourusername/)
 - Email: IPrice25250@gmail.com
 
 ---
