@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Isaac
 
 ## About Me
-👨‍💻 Junior at Warsaw Community High School  
+👨‍💻 Senior at Warsaw Community High School  
 📍 Based in Warsaw, Indiana  
 🔭 Passionate about Programming & Artificial Intelligence  
 🌱 Currently learning more about machine learning frameworks  
 👯 Open to collaboration on tech and AI projects  
 
 ## Skills
-- **Languages**: Python, Java, C++, HTML, CSS, JavaScript
+- **Languages**: Python, C, C++, C#, HTML, CSS, JavaScript
 - **Frameworks**: TensorFlow, PyTorch
 - **Tools**: Git, VS Code
 
