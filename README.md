@@ -1,29 +1,27 @@
-# Hi there 👋, I'm Isaac
+Hi, I’m Isaac
 
-## About Me
-👨‍💻 Senior at Warsaw Community High School  
-📍 Based in Warsaw, Indiana  
-🔭 Passionate about Programming & Artificial Intelligence  
-🌱 Currently learning more about machine learning frameworks  
-👯 Open to collaboration on tech and AI projects  
+About Me
+	•	Software Developer Intern at Peakey Enterprises LLC, working on client software solutions
+	•	Senior at Warsaw Community High School
+	•	Based in Warsaw, Indiana
+	•	Passionate about AI and Software Development
+	•	Currently building a fitness app (brbll) using React Native and a C# .NET backend
 
-## Skills
-- **Languages**: Python, C, C++, C#, HTML, CSS, JavaScript
-- **Frameworks**: TensorFlow, PyTorch
-- **Tools**: Git, VS Code
+Skills
+	•	Languages: C#, C++, Python, JavaScript, HTML, CSS
+	•	Frameworks & Libraries: React, React Native, MUI, .NET, TensorFlow, PyTorch
+	•	Tools: Git, VS Code, AWS
 
-## Projects
-1. **Mario AI**: An AI that learns to play mario using deep Q-learning.
-   - [Repo](https://github.com/IsaacPrice/Mario-DS-AI)
-   - Tech Stack: Python, Tensorflow
-    
-2. **AI Chess Bot**: A smart bot to predict the next best move.
-   - [Repo](https://github.com/IsaacPrice/Machine-Deep-Learning)
-   - Tech Stack: Python, Tensorflow
+Experience & Achievements
+	•	Software Development Co-op at Peakey Enterprises LLC
+	•	Competitive Programming: 2nd Place Nationally in C++ (BPA 2024)
+	•	Web Development: State Qualifier for BPA Web Design Team
 
-## Contact Me
-Feel free to reach out to me for collaborations, advice, or if you have any questions.
-- Email: IPrice25250@gmail.com
+Notable Projects
+	•	Mario AI: AI using Deep Q-Learning to play Mario
+	•	GitHub | Python, TensorFlow
+	•	Workout App: Custom workout app viewable under brbll.us (closed source)
+	•	GitHub | React, React-Native, .Net, C#, AWS
 
----
-⭐️ From [Isaac](https://github.com/IsaacPrice)
+Contact
+	•	Email: IPrice25250@gmail.com
