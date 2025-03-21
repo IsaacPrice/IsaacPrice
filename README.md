@@ -15,7 +15,7 @@
 ### Experience & Achievements
 - Software Development Co-op at Peakey Enterprises LLC
 - Competitive Programming: 2nd Place Nationally in C++ (BPA 2024)
-- Web Development: State Qualifier for BPA Web Design Team
+- Web Development: 2nd at State for BPA Web Design Team
 
 ### Projects
 - Mario AI: AI using Deep Q-Learning to play Mario
