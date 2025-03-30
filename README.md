@@ -4,7 +4,7 @@
 - Software Developer Intern at Peakey Enterprises LLC, working on client software solutions
 - Senior at Warsaw Community High School
 - Based in Warsaw, Indiana
-- Passionate about AI and Software Development
+- Love working on AI, especially RL when given the chance
 - Currently building a fitness app (brbll) using React Native and a C# .NET backend
 
 ### Skills
@@ -19,7 +19,7 @@
 
 ### Projects
 - Mario AI: AI using Deep Q-Learning to play Mario
-- GitHub | Python, TensorFlow
+- GitHub | Python, Pytorch
 - Workout App: Custom workout app viewable under brbll.us (closed source)
 - GitHub | React, React-Native, .Net, C#, AWS
 
