@@ -8,9 +8,9 @@
 - Currently building a fitness app (brbll) using React Native and a C# .NET backend
 
 ### Skills
-- Languages: C#, C++, Python, JavaScript, HTML, CSS
-- Frameworks & Libraries: React, React Native, MUI, .NET, TensorFlow, PyTorch
-- Tools: Git, VS Code, AWS
+- Languages: C, C++, C#, Java, Python, JavaScript / TypeScript, HTML, CSS 
+- Frameworks & Libraries: React, React Native, Angular, MUI, .NET, TensorFlow, PyTorch
+- Tools: Git, VS Code, AWS, NGINX
 
 ### Experience & Achievements
 - Software Development Co-op at Peakey Enterprises LLC
